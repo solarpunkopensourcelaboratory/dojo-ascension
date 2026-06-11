@@ -1,0 +1,6 @@
+# DOJO ASCENSION v4.0 — Python dependencies
+# Install with: pip install -r requirements.txt
+
+colorama>=0.4.6     # Colored terminal output (cross-platform)
+requests>=2.31.0    # HTTP requests for API missions
+# All other modules (json, os, pathlib, subprocess) are Python stdlib
