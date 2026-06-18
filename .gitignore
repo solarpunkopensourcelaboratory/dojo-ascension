@@ -1,1 +1,35 @@
+# ==========================================
+# Dojo Ascension v4.0 - Git Ignore Rules
+# ==========================================
+
+# Virtual Environments
 venv/
+env/
+.env
+.venv/
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Dojo Ascension Specifics
+# Prevents learners from committing their local progress files
+.dojo_save.json
+*.dojo_save.json
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
