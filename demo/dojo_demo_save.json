@@ -1,0 +1,13 @@
+{
+  "name": "DemoPlayer",
+  "honor": 75,
+  "completed": ["python_variables_lineage"],
+  "skills": {
+    "python": 2,
+    "git": 1,
+    "json": 1,
+    "architecture": 0,
+    "review": 0
+  },
+  "last_save": "2026-07-01T12:00:00Z"
+}
